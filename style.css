@@ -153,6 +153,22 @@ ul {
     font-size: 16px;
 }
 
+.button-reset {
+    background-color: #d9534f; /* Rojo suave */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.button-reset:hover {
+    background-color: #c9302c;
+}
+
+
 .button-draw img {
     margin-right: 40px;
 }
